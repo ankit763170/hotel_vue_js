@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "ankit jha",
+      "email": "ankit@gmail.com",
+      "password": "123456",
+      "id": "af37"
+    },
+    {
+      "id": "3a56",
+      "namme": "Mitesh Jha",
+      "email": "Mitesh@gmail.com",
+      "password": "Mitesh@gmail.com"
+    },
+    {
+      "id": "dd87",
+      "name": "Ankit",
+      "Email": "admin@email.com",
+      "Password": "123456"
+    },
+    {
+      "id": "4cc6",
+      "name": "aaaaaaaaaa",
+      "Email": "admin@email.com",
+      "Password": "123456"
+    },
+    {
+      "id": "2c9f",
+      "name": "admin",
+      "Email": "admin@email.com",
+      "Password": "123456"
+    },
+    {
+      "id": "7530",
+      "name": "hero",
+      "Email": "admin@email.com",
+      "Password": "123456"
+    },
+    {
+      "id": "0663",
+      "name": "alok",
+      "Email": "admin@email.com",
+      "Password": "123456"
+    }
+  ]
+}
